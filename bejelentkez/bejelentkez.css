@@ -1,0 +1,16 @@
+#fejlec{
+    text-align: center;
+    background-color:rgba(219, 32, 63);
+    
+}
+.kep1{
+    width: 100px;
+    height: 100px;
+}
+#belepes_gomb{
+    border: 1px solid red;
+    border-radius: 10%;
+    background-color: red;
+    width: 90px;
+    text-align: center;
+}
