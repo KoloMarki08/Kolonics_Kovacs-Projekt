@@ -13,6 +13,7 @@ A projektben egy weblapot dolgozunk át. A honlap ami átdolgozásra került azt
 
 - [Főoldal](fooldal.html)
 - [Referencia oldal](https://fabrimenza.veresegyhaz.hu/)
+- [Trello](https://trello.com/b/PgOzPcGa/projektmunkakolonicskovacs)
 
 ## Referencia képek
 
