@@ -1,29 +1,73 @@
-# Kolonics_Kovacs-Projekt
+## 👥 Készítette
+**Kolonics Márk** 11.D  
+**Kovács Péter** 11.D
 
-## Készítette
-Kolonics Márk 11.D
+---
 
-Kovács Péter 11.D
+## 📋 Projekt célja és áttekintése
 
-## Demo
+Az **Online Étkezés Befizetési Rendszer** átdolgozása és modernizálása. A projekt középpontjában egy felhasználóbarát, reszponzív webfelület áll, amely egyaránt szolgálja az esztétikus megjelenést és a funkcionális hatékonyságot.
 
+### Fő célkitűzések:
+- **Modern esztétika**: Friss, kort követő dizájn a Veres Egyházi Iskola arculatának megfelelően
+- **Mobilbarát felület**: Teljes reszponzivitás — asztali, tablet és mobilnézet támogatása
+- **Felhasználói élmény (UX)**: Intuitív navigáció, gyors betöltés, szimbolikus és tiszta interfész
+- **Biztonság**: Jelszó kezelés, bejelentkezési folyamat validálása, form validáció
+- **Karbantarthatóság**: Moduláris szerkezet, tiszta kódszervezet, dokumentáció
 
+---
 
-## Áttekintés
+## 🔗 Demo és linkek
 
-A projektben egy weblapot dolgozunk át. A honlap ami átdolgozásra került azt a csatolt képeken tudják megnézni, ugyanis az oldal korlátozott bejelentkezéssel tekinthető meg. A honlap főoldala a `fooldal.html` fájl.
+- **[Live Demo](https://kolomarki08.github.io/Kolonics_Kovacs-Projekt/bejeletkezes.html)**
+- **[Főoldal](fooldal.html)**
+- **[Referencia honlap](https://fabrimenza.veresegyhaz.hu/)**
+- **[Trello — Projektmenedzsment](https://trello.com/b/PgOzPcGa/projektmunkakolonicskovacs)**
 
-## Megtekintés 
+---
 
-- [Főoldal](fooldal.html)
-- [Referencia oldal](https://fabrimenza.veresegyhaz.hu/)
-- [Trello](https://trello.com/b/PgOzPcGa/projektmunkakolonicskovacs)
+## 🚀 Használat
 
-## Referencia képek
+### Helyileg futtatás:
+```bash
+# A projekt az alábbi fájlokkal indítható
+# 1. Nyisd meg a pages/bejeletkezes.html fájlt böngészőben
+# 2. Vagy használj egy lokális szerveret (pl. Live Server, python -m http.server)
+```
 
-Az alábbi képek a `Referencia_oldal` mappából kerülnek beillesztésre (ha a képek még nincsenek a helyi gépen, a `Referencia_oldal` mappába kell másolni őket):
+### Telepítés (jövőbeli):
+```bash
+git clone https://github.com/KoloMarki08/Kolonics_Kovacs-Projekt.git
+cd Kolonics_Kovacs-Projekt
+# Helyileg futtatás vagy deployment
+```
 
-![Kép 1](/Egyeb/Referencia_oldal/Kep1.png)
-![Kép 2](/Egyeb/Referencia_oldal/Kep2.png)
-![Kép 3](/Egyeb/Referencia_oldal/Kep3.png)
-![Kép 4](/Egyeb/Referencia_oldal/Kep4.png)
+---
+
+## 📋 Referencia képek
+
+Az átdolgozás során az alábbi referenciafotók inspirálnak:
+
+![Kép 1](Egyeb/Referencia_oldal/Kep1.png)
+![Kép 2](Egyeb/Referencia_oldal/Kep2.png)
+![Kép 3](Egyeb/Referencia_oldal/Kep3.png)
+![Kép 4](Egyeb/Referencia_oldal/Kep4.png)
+
+---
+
+## 🛠️ Technológiák
+
+- **HTML5** — Szemantikus jelölés
+- **CSS3** — Modern stílusok, Flexbox, Grid, Media Queries
+- **JavaScript (ES6+)** — Interaktivitás és felhasználói élmény
+- **PHP** (szerveroldalon) — Bejelentkezési logika, adatkezelés
+
+---
+
+**Projekt szerzői:**  
+- Kolonics Márk
+- Kovács Péter
+
+Kérdések vagy észrevételek? Nyiss egy issue-t vagy lépj kapcsolatba a szerzőkkel a Trello táblán.
+
+---
