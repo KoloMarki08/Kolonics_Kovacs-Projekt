@@ -60,7 +60,6 @@ Az átdolgozás során az alábbi referenciafotók inspirálnak:
 - **HTML5** — Szemantikus jelölés
 - **CSS3** — Modern stílusok, Flexbox, Grid, Media Queries
 - **JavaScript (ES6+)** — Interaktivitás és felhasználói élmény
-- **PHP** (szerveroldalon) — Bejelentkezési logika, adatkezelés
 
 ---
 
@@ -68,6 +67,6 @@ Az átdolgozás során az alábbi referenciafotók inspirálnak:
 - Kolonics Márk
 - Kovács Péter
 
-Kérdések vagy észrevételek? Nyiss egy issue-t vagy lépj kapcsolatba a szerzőkkel a Trello táblán.
+Kérdések vagy észrevételek? Lépj kapcsolatba a szerzőkkel a Trello táblán.
 
 ---
