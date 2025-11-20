@@ -1,8 +1,61 @@
 #top{
     background-color: #db203f;
-    height: 80px;
+    height: 10rem;
+    font-family: 'Lucida Console';
+    color: #ffffff;
+    font-weight: bold;
+    font-size: x-large;
 }
 #top img{
-    height: 80px;
+    height: 10rem;
     padding-left: 20px;
 }
+.container{
+    align-items: flex-start;
+}
+body{
+    font-family: 'Arial', 'Monaco';
+}
+.col img.ikon{
+    padding-top: auto;
+    width:10rem;
+    height:10rem;
+    margin: ;
+}
+.col{
+    margin: auto;
+}
+.col-lg-1{
+    padding: 10rem;
+    margin: auto;
+}
+.col h2{
+    width: 160px;
+    text-align: center;
+    font-weight: bold;
+    font-size: xx-large;
+    margin-top: 1rem;
+    ;
+}
+
+.col-sm-12{
+    padding: 10rem;
+}
+
+.gomb{
+    border: solid #db203f 10px;
+    border-radius: 15px;
+    width: 10rem;
+    text-align: center;
+    background-color: #db203f;
+}
+div.gomb a{
+    text-decoration: none;
+    color: white;
+}
+div.elemek{
+    width: fit-content;
+    margin: auto;
+}
+
+
