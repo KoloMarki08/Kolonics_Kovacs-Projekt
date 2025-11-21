@@ -7,7 +7,7 @@ body{
 .fejlec{
     display: flex;
     justify-content: start;
-    align-content: center;
+    align-items: center;
     padding: 18px 12px;
     background:rgba(219, 33, 63);
     color: rgb(255, 255, 255);
