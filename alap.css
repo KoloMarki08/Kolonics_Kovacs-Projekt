@@ -14,7 +14,7 @@
 .container{
     align-items: flex-start;
     background-color: white;
-    box-shadow: 0px 0px 100px whitesmoke;
+    box-shadow: 0px 100px 100px whitesmoke;
     z-index: 0;
 }
 body{
@@ -54,18 +54,7 @@ body{
 
 .col-md-4{
     width: 20rem;
-}
 
-.gomb{
-    border: solid #db203f 10px;
-    border-radius: 15px;
-    width: 10rem;
-    text-align: center;
-    background-color: #db203f;
-}
-div.gomb a{
-    text-decoration: none;
-    color: white;
 }
 div.elemek{
     width: fit-content;
