@@ -58,4 +58,9 @@ div.elemek{
     margin: auto;
 }
 
-
+table#vasarloitabla{
+    width: 60%;
+    margin: auto;
+    border: solid black 2px;
+    text-align: center;
+}
