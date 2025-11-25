@@ -6,6 +6,7 @@
     font-weight: bold;
     font-size: x-large;
     z-index: 1;
+
 }
 #top img{
     height: 10rem;
@@ -19,14 +20,14 @@
 }
 body{
     font-family: 'Arial', 'Monaco';
-    background-image: url(Kepek/iskola.jpg);
+    background-image: url(/Kepek/iskola.jpg);
     background-position: center;
     background-size: cover;
 
 }
 
 .row{
-    width: 75rem;
+    width: auto;
     margin: auto;
 }
 
@@ -45,21 +46,54 @@ body{
     font-weight: bold;
     font-size: xx-large;
     margin-top: 1rem;
-    ;
 }
 
 .col-sm-12{
     margin-top: 5rem;
 }
 
-.col-md-4{
-    width: 20rem;
 
-}
 div.elemek{
     width: fit-content;
     text-align: center;
     padding: auto;
 }
 
+div.elemek a{
+    text-decoration: none;
+    color: black;
+}
+button{
+    background: none;
+    border: none;
+    width: 10rem;
+    height: 10rem;
+}
 
+.btn{
+    height: auto;
+    width: 10rem;
+}
+
+.modal-title{
+    font-size: xx-large;
+    font-weight: bold;
+}
+
+.btn-outline-danger{
+    width: 10rem;
+}
+
+.col h2:hover{
+
+   color: white;
+   text-shadow: 0px 0px 10px black;
+}
+
+.fullcaps{
+    text-transform: uppercase;
+}
+
+p.justify{
+    text-align: justify;
+}
