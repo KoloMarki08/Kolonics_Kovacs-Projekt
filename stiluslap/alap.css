@@ -17,6 +17,8 @@
     background-color: white;
     box-shadow: 0px 100px 100px whitesmoke;
     z-index: 0;
+    padding-bottom: 3rem;
+    padding-top: 1.5rem;
 }
 body{
     font-family: 'Arial', 'Monaco';
@@ -102,17 +104,54 @@ p.justify{
 
 footer{
     background-color: grey;
-    position: fixed;
     left: 0;
     right: 0;
     width: 100%;
     text-align: center;
     color: white;
-    height: 100px;
+    height: fit-content;
+    padding-bottom: 1.5rem;
+    padding-top: 1.5rem;
+}
+
+footer img{
+    background-color: white;
+    margin: auto;
+    width: auto;
+    height: 5rem;
 }
 
 .kontener{
+    border: 1px solid white;
+    border-radius: 10px;
+    background-color: white;
+    padding-top: 1.5rem;
+    padding-bottom: 1.5rem;
+    margin-left: 3rem;
+    margin-right: 3rem;
     display: flex;
     flex-direction: row;
     flex-wrap: wrap;
+}
+
+footer h3{
+    border: 1px solid white;
+    border-radius: 10px;
+
+    padding-top: 1.5rem;
+    padding-bottom: 1.5rem;
+    margin-top: 1.5rem;
+    margin-bottom: -1rem;
+    margin-left: 30%;
+    margin-right: 30%;
+
+    background-color: white;
+
+    color: black;
+}
+
+.cr{
+    margin-top: 1rem;
+    color: black;
+    font-size: small;
 }

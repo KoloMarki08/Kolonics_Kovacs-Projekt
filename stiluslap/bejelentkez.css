@@ -84,4 +84,10 @@ input[type="text"]:focus, input[type="password"]:focus{
     box-shadow: 0 6px 16px rgba(219,32,63,0.18);
 }
 
+#belepes_gomb a:hover{
+    background:none;
+    border: 1px solid rgba(178, 25, 49);
+    color: rgba(219, 33, 63);
+}
+
 
