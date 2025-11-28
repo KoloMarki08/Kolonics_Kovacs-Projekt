@@ -1,13 +1,27 @@
+html, body {
+    height: 100%;
+    margin: 0;
+    padding: 0;
+    display: flex;
+    flex-direction: column;
+}
+
 #top{
     background-color: #db203f;
-    height: 10rem;
+    height: fit-content;
     font-family: 'Lucida Console';
     color: #ffffff;
     font-weight: bold;
     font-size: x-large;
     z-index: 1;
-
+    display: flex;
+    align-items: center;
+    gap: 1rem;
+    padding: 0.5rem 1rem;
 }
+
+
+
 #top img{
     height: 10rem;
     padding-left: 20px;
@@ -27,7 +41,11 @@ body{
     background-repeat: no-repeat;
     background-attachment: fixed;
     background-size: cover;
+    
+}
 
+body > *:not(footer) {
+    flex: 1; 
 }
 
 .row{
@@ -112,6 +130,8 @@ footer{
     height: fit-content;
     padding-bottom: 1.5rem;
     padding-top: 1.5rem;
+    margin-top: auto;
+    z-index: 2;
 }
 
 footer img{
