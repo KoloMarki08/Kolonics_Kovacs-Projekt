@@ -48,12 +48,16 @@ cd Kolonics_Kovacs-Projekt
 
 Az átdolgozás során az alábbi referenciafotók inspirálnak:
 
-![Kép 1](Egyeb/Referencia_oldal/Kep1.png)
-![Kép 2](Egyeb/Referencia_oldal/Kep2.png)
-![Kép 3](Egyeb/Referencia_oldal/Kep3.png)
-![Kép 4](Egyeb/Referencia_oldal/Kep4.png)
+![Kép 1](Referencia_oldal/Kep1.png)
+![Kép 2](Referencia_oldal/Kep2.png)
+![Kép 3](Referencia_oldal/Kep3.png)
+![Kép 4](Referencia_oldal/Kep4.png)
 
 ---
+
+![Kép 5](Referencia_oldal/Kesz1.png)
+![Kép 6](Referencia_oldal/Kesz2.png)
+![Kép 7](Referencia_oldal/Kesz3.png)
 
 ## 🛠️ Technológiák
 
