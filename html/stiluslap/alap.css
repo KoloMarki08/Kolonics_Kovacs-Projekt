@@ -41,7 +41,7 @@ body{
     background-repeat: no-repeat;
     background-attachment: fixed;
     background-size: cover;
-    
+    /* ok */
 }
 
 body > *:not(footer) {
