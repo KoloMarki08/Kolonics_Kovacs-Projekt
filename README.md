@@ -20,7 +20,7 @@ Az **Online Étkezés Befizetési Rendszer** átdolgozása és modernizálása. 
 ## 🔗 Demo és linkek
 
 - **[Live Demo](https://kolomarki08.github.io/Kolonics_Kovacs-Projekt/bejeletkezes.html)**
-- **[Főoldal](fooldal.html)**
+- **[Főoldal](https://kolomarki08.github.io/Kolonics_Kovacs-Projekt/html/fooldal.html)**
 - **[Referencia honlap](https://fabrimenza.veresegyhaz.hu/)**
 - **[Trello — Projektmenedzsment](https://trello.com/b/PgOzPcGa/projektmunkakolonicskovacs)**
 
